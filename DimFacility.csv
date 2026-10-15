@@ -1,0 +1,11 @@
+FacilityID,FacilityType,State,BedCount
+1,Clinic,CA,475
+2,Hospital,FL,157
+3,Clinic,NY,499
+4,Clinic,FL,360
+5,Hospital,IL,219
+6,Clinic,NY,595
+7,Hospital,IL,463
+8,Hospital,CA,300
+9,Hospital,NY,190
+10,Clinic,IL,323

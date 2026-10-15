@@ -1,0 +1,101 @@
+ProviderID,Specialty,ProviderType
+1,Internal Medicine,Surgeon
+2,Orthopedics,Physician
+3,Orthopedics,Physician
+4,Internal Medicine,Physician
+5,Pediatrics,Surgeon
+6,Pediatrics,Physician
+7,Emergency,Physician
+8,Emergency,Physician
+9,Cardiology,Physician
+10,Orthopedics,Physician
+11,Emergency,Surgeon
+12,Pediatrics,Surgeon
+13,Internal Medicine,Physician
+14,Pediatrics,Physician
+15,Orthopedics,Physician
+16,Pediatrics,Physician
+17,Cardiology,Surgeon
+18,Orthopedics,Physician
+19,Internal Medicine,Surgeon
+20,Cardiology,Surgeon
+21,Orthopedics,Physician
+22,Internal Medicine,Surgeon
+23,Cardiology,Surgeon
+24,Cardiology,Surgeon
+25,Orthopedics,Surgeon
+26,Emergency,Physician
+27,Cardiology,Physician
+28,Cardiology,Surgeon
+29,Internal Medicine,Physician
+30,Pediatrics,Physician
+31,Orthopedics,Physician
+32,Orthopedics,Physician
+33,Emergency,Physician
+34,Emergency,Surgeon
+35,Orthopedics,Physician
+36,Emergency,Physician
+37,Internal Medicine,Physician
+38,Orthopedics,Physician
+39,Emergency,Surgeon
+40,Orthopedics,Surgeon
+41,Pediatrics,Surgeon
+42,Cardiology,Surgeon
+43,Orthopedics,Physician
+44,Cardiology,Surgeon
+45,Emergency,Physician
+46,Cardiology,Physician
+47,Orthopedics,Physician
+48,Pediatrics,Physician
+49,Emergency,Physician
+50,Orthopedics,Surgeon
+51,Emergency,Surgeon
+52,Internal Medicine,Surgeon
+53,Cardiology,Surgeon
+54,Internal Medicine,Physician
+55,Orthopedics,Surgeon
+56,Pediatrics,Physician
+57,Emergency,Surgeon
+58,Cardiology,Physician
+59,Emergency,Physician
+60,Orthopedics,Surgeon
+61,Emergency,Physician
+62,Cardiology,Physician
+63,Orthopedics,Surgeon
+64,Emergency,Physician
+65,Pediatrics,Surgeon
+66,Orthopedics,Surgeon
+67,Orthopedics,Surgeon
+68,Pediatrics,Physician
+69,Internal Medicine,Physician
+70,Cardiology,Physician
+71,Internal Medicine,Surgeon
+72,Emergency,Physician
+73,Pediatrics,Surgeon
+74,Internal Medicine,Surgeon
+75,Orthopedics,Physician
+76,Emergency,Surgeon
+77,Emergency,Physician
+78,Internal Medicine,Physician
+79,Internal Medicine,Physician
+80,Pediatrics,Physician
+81,Cardiology,Physician
+82,Internal Medicine,Surgeon
+83,Internal Medicine,Surgeon
+84,Orthopedics,Surgeon
+85,Emergency,Physician
+86,Cardiology,Physician
+87,Orthopedics,Physician
+88,Pediatrics,Surgeon
+89,Pediatrics,Physician
+90,Internal Medicine,Surgeon
+91,Internal Medicine,Surgeon
+92,Pediatrics,Physician
+93,Internal Medicine,Physician
+94,Cardiology,Surgeon
+95,Internal Medicine,Physician
+96,Emergency,Surgeon
+97,Internal Medicine,Physician
+98,Orthopedics,Physician
+99,Cardiology,Surgeon
+100,Orthopedics,Physician

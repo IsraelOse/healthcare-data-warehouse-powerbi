@@ -1,0 +1,6 @@
+PayerID,PayerType
+1,Medicare
+2,Medicaid
+3,Private
+4,Self-Pay
+5,Employer
